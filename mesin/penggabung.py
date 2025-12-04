@@ -94,4 +94,3 @@ class MesinKetik:
         if not prefix:
             return []
         return self.trie.suggest(prefix.lower())
-

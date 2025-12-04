@@ -1,5 +1,3 @@
-# "File: demo_cli.py
-
 # Contoh implementasi dan demo interaktif menggunakan MesinKetik di lingkungan CLI.
 # Versi ini menggunakan msvcrt untuk input per-karakter (Windows-only).
 # "

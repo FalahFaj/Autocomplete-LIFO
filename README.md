@@ -1,7 +1,3 @@
-Berikut adalah isi file `README.md` yang telah diperbarui dengan penjelasan alur kerja (algoritma) yang mendetail. Penjelasan ini mencakup logika di balik Trie untuk Autocomplete dan Double Stack untuk Undo-Redo, cocok untuk laporan tugas akhir atau dokumentasi GitHub.
-
-Silakan salin konten di bawah ini ke dalam file `README.md` Anda:
-
 ````markdown
 # Pengembangan Modul Autocomplete dan Undo–Redo Terintegrasi
 
